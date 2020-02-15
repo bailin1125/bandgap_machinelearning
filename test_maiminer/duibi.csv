@@ -1,0 +1,187 @@
+,Band gap,Band gap-conditions,Band gap-dataType,Band gap-methods,Band gap-units,chemicalFormula,Temperature derivative of band gap,Temperature derivative of band gap-conditions,Temperature derivative of band gap-dataType,Temperature derivative of band gap-methods,Temperature derivative of band gap-units
+0,0.153,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Thermal activation'},eV,Bi2Te3,,,,,
+1,0.567,"[{'name': 'Transition', 'scalars': [{'value': 'Indirect'}]}, {'name': 'Temperature', 'scalars': [{'value': '77'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV,Mg2Ge1,-0.00018,"[{'name': 'Transition', 'scalars': [{'value': 'Indirect'}]}, {'name': 'Temperature', 'scalars': [{'value': '77'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+2,0.045,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,,eV,Co1Si1,,,,,
+3,7.025,"[{'name': 'Transition', 'scalars': [{'value': 'Excitonic'}]}, {'name': 'Temperature', 'scalars': [{'value': '77'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Reflection'},eV,Na1Br1,,,,,
+4,0.9,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Thermal activation'},eV,Ca2Sn1,,,,,
+5,2.57,"[{'name': 'Electric field polarization', 'scalars': [{'value': 'Perpendicular to C axis'}]}, {'name': 'Transition', 'scalars': [{'value': 'Indirect'}]}, {'name': 'Temperature', 'scalars': [{'value': '90'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV,As2S3,,,,,
+6,3.35,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Reflection'},eV,Zn1O1,,,,,
+7,1.23,"{'name': 'Temperature', 'scalars': [{'value': '293'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Reflection'},eV,Cu2Se1,,,,,
+8,0.7,"{'name': 'Temperature', 'scalars': [{'value': '295'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Absorption'},eV,Ge1Te1,,,,,
+9,10,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Absorption'},eV,Ca1F2,,,,,
+10,2.1,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Absorption'},eV,Dy1N1,,,,,
+11,1.15,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Absorption'},eV,Sb2Se3,,,,,
+12,0.404,"[{'name': 'Transition', 'scalars': [{'value': 'Direct'}]}, {'name': 'Temperature', 'scalars': [{'value': '80'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Magnetoabsorption'},eV,In1As1,,,,,
+13,3.2,"[{'name': 'Transition', 'scalars': [{'value': 'Indirect'}]}, {'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Photoconduction'},eV,Cd1I2,,,,,
+14,1.32,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Thermal activation'},eV,La2S3,,,,,
+15,0.82,,EXPERIMENTAL,{'name': 'Thermal activation'},eV,Mg3Sb2,-3.50E-04,,EXPERIMENTAL,{'name': 'Thermal activation'},eV/K
+16,1.15,"{'name': 'Temperature', 'scalars': [{'value': '80'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Absorption'},eV,Cu2Te1,-3.00E-04,"{'name': 'Temperature', 'scalars': [{'value': '80'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+17,0.19,"{'name': 'Transition', 'scalars': [{'value': 'Indirect'}]}",EXPERIMENTAL,{'name': 'Absorption'},eV,Pb1Te1,0.00041,"{'name': 'Transition', 'scalars': [{'value': 'Indirect'}]}",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+18,0.465,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Absorption'},eV,Cd1Sb1,-0.00054,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+19,6.1,"[{'name': 'Transition', 'scalars': [{'value': 'Excitonic'}]}, {'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV,Ca1O1,,,,,
+20,2,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Absorption'},eV,As2S3,-6.80E-04,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+21,0.57,"[{'name': 'Transition', 'scalars': [{'value': 'Indirect'}]}, {'name': 'Temperature', 'scalars': [{'value': '77'}], 'units': 'K'}]",EXPERIMENTAL,,eV,Mg2Ge1,,,,,
+22,6.0,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Absorption'},eV,Ca1S1,,,,,
+23,0.6,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Thermal activation'},eV,Eu3As2,,,,,
+24,2.676,"{'name': 'Temperature', 'scalars': [{'value': '77'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Absorption'},eV,Ag1Br1,,,,,
+25,2.35,"[{'name': 'Transition', 'scalars': [{'value': 'Direct'}]}, {'name': 'Temperature', 'scalars': [{'value': '77'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Reflection'},eV,Zn1Te1,,,,,
+26,1.25,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Absorption'},eV,Zr1Se3,,,,,
+27,0.015,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Thermal activation'},eV,Cr3Se4,,,,,
+28,0.7,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Reflection'},eV,Hg1S1,,,,,
+29,1.68,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Thermal activation'},eV,Cr2O3,,,,,
+30,2.69,"{'name': 'Transition', 'scalars': [{'value': 'Direct'}]}",EXPERIMENTAL,{'name': 'Absorption'},eV,Ge1Se2,,,,,
+31,1,"[{'name': 'Transition', 'scalars': [{'value': 'Indirect'}]}, {'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV,Ge1As2,,,,,
+32,4.1,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Absorption'},eV,La1B6,,,,,
+33,7.77,"[{'name': 'Transition', 'scalars': [{'value': 'Direct'}]}, {'name': 'Temperature', 'scalars': [{'value': '295'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Reflection'},eV,Mg1O1,,,,,
+34,2.8,"[{'name': 'Electric field polarization', 'scalars': [{'value': 'Perpendicular to C axis'}]}, {'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV,As2S3,-6.92E-04,"[{'name': 'Electric field polarization', 'scalars': [{'value': 'Perpendicular to C axis'}]}, {'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+35,0.585,"{'name': 'Temperature', 'scalars': [{'value': '78'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Absorption'},eV,Cd1Sb1,-0.00054,"{'name': 'Temperature', 'scalars': [{'value': '78'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+36,2.32,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Absorption'},eV,As2S3,,,,,
+37,0.28,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,,eV,Ag2Te1,,,,,
+38,1.1,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,,eV,As2Se3,,,,,
+39,5.8,"{'name': 'Temperature', 'scalars': [{'value': '80'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Absorption'},eV,Na1I1,,,,,
+40,1,"[{'name': 'Electric field polarization', 'scalars': [{'value': 'Parallel to C axis'}]}, {'name': 'Temperature', 'scalars': [{'value': '297'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV,Cd1As2,,,,,
+41,0.234,"[{'name': 'Transition', 'scalars': [{'value': 'Direct'}]}, {'name': 'Temperature', 'scalars': [{'value': '4.2'}], 'units': 'K'}]",EXPERIMENTAL,,eV,In1Sb1,,,,,
+42,0.65,"[{'name': 'Transition', 'scalars': [{'value': 'Indirect'}]}, {'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV,Ge1As1,,,,,
+43,7.03,"[{'name': 'Transition', 'scalars': [{'value': 'Excitonic'}]}, {'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Reflection'},eV,Ca1O1,,,,,
+44,1.58,"[{'name': 'Transition', 'scalars': [{'value': 'Indirect'}]}, {'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Thermal activation'},eV,Ge1S1,,,,,
+45,2.205,"[{'name': 'Transition', 'scalars': [{'value': 'G1 to X1'}]}, {'name': 'Transition', 'scalars': [{'value': 'Excitonic'}]}, {'name': 'Temperature', 'scalars': [{'value': '145'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV,Al1As1,,,,,
+46,0.145,"[{'name': 'Transition', 'scalars': [{'value': 'Indirect'}]}, {'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV,Bi2Te3,-0.0001,"[{'name': 'Transition', 'scalars': [{'value': 'Indirect'}]}, {'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+47,2.4,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Photoconduction'},eV,As4S4,,,,,
+48,0.46,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Absorption'},eV,Sm1Se1,,,,,
+49,2.3,"[{'name': 'Transition', 'scalars': [{'value': 'G15 to G1'}]}, {'name': 'Transition', 'scalars': [{'value': 'Direct'}]}, {'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV,Cd1O1,,,,,
+50,1.05,"[{'name': 'Transition', 'scalars': [{'value': 'Indirect'}]}, {'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV,Cu2S1,,,,,
+51,3.9,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Reflection'},eV,Sn1Cl2,,,,,
+52,6.37,"{'name': 'Temperature', 'scalars': [{'value': '10'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Photoconduction'},eV,Rb1I1,,,,,
+53,0.3,"{'name': 'Temperature', 'scalars': [{'value': '293'}], 'units': 'K'}",EXPERIMENTAL,,eV,Ge1Te2,,,,,
+54,0.6,"{'name': 'Temperature', 'scalars': [{'value': '293'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Thermal activation'},eV,ZrC,,,,,
+55,5.15,"[{'name': 'Transition', 'scalars': [{'value': 'Direct'}]}, {'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV,Fe1I2,,,,,
+56,2.6,,EXPERIMENTAL,{'name': 'Estimated'},eV,Sc1N1,,,,,
+57,0.55,"{'name': 'Temperature', 'scalars': [{'value': '873'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Thermal activation'},eV,PrO,,,,,
+58,7.69,"[{'name': 'Transition', 'scalars': [{'value': 'Excitonic'}]}, {'name': 'Temperature', 'scalars': [{'value': '295'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Reflection'},eV,Mg1O1,,,,,
+59,5.493,"[{'name': 'Transition', 'scalars': [{'value': 'Excitonic'}]}, {'name': 'Temperature', 'scalars': [{'value': '90'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Photoconduction'},eV,C,,,,,
+60,2.59,"[{'name': 'Transition', 'scalars': [{'value': 'Direct'}]}, {'name': 'Temperature', 'scalars': [{'value': '293'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Electroreflection'},eV,Cu2O1,,,,,
+61,2.13,"{'name': 'Temperature', 'scalars': [{'value': '298'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Reflection'},eV,Hg1I2,-0.0014,"{'name': 'Temperature', 'scalars': [{'value': '298'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Reflection'},eV/K
+62,2.2,"[{'name': 'Transition', 'scalars': [{'value': 'Indirect'}]}, {'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV,Al1As1,,,,,
+63,1.62,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Thermal activation'},eV,Ce2Se3,,,,,
+64,1.84,"{'name': 'Temperature', 'scalars': [{'value': '513'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Thermal activation'},eV,Eu2O3,,,,,
+65,8.5,"[{'name': 'Transition', 'scalars': [{'value': 'G8 to G6+'}]}, {'name': 'Transition', 'scalars': [{'value': 'Direct'}]}, {'name': 'Temperature', 'scalars': [{'value': '10'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV,Rb1Cl1,,,,,
+66,3.23,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Absorption'},eV,Pb1Br2,,,,,
+67,2.29,"{'name': 'Temperature', 'scalars': [{'value': '110'}], 'units': 'K'}",EXPERIMENTAL,,eV,Zn1Te1,,,,,
+68,1.79,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Absorption'},eV,Ho1N1,,,,,
+69,4,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Absorption'},eV,As2O3,,,,,
+70,3.5,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Absorption'},eV,Sn1Br2,,,,,
+71,1.7,"[{'name': 'Transition', 'scalars': [{'value': 'Direct'}]}, {'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV,Rb3Sb1,,,,,
+72,6.25,"[{'name': 'Transition', 'scalars': [{'value': 'Direct'}]}, {'name': 'Temperature', 'scalars': [{'value': '55'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Reflection'},eV,K1I1,,,,,
+73,4.1,"[{'name': 'Electric field polarization', 'scalars': [{'value': 'Parallel to C axis'}]}, {'name': 'Transition', 'scalars': [{'value': 'Direct'}]}, {'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV,Sn1O2,,,,,
+74,1.9,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Thermal activation'},eV,Pr2Se3,,,,,
+75,0.36,"{'name': 'Transition', 'scalars': [{'value': 'Indirect'}]}",EXPERIMENTAL,{'name': 'Thermal activation'},eV,Mg2Sn1,-0.0003,"{'name': 'Transition', 'scalars': [{'value': 'Indirect'}]}",EXPERIMENTAL,{'name': 'Thermal activation'},eV/K
+76,0.185,"{'name': 'Transition', 'scalars': [{'value': 'Direct'}]}",EXPERIMENTAL,{'name': 'Photoconduction'},eV,Pb1Te1,,,,,
+77,6.2,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Reflection'},eV,Mn1S1,,,,,
+78,1.2,"[{'name': 'Transition', 'scalars': [{'value': 'Direct'}]}, {'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV,Sn1Se1,,,,,
+79,3.66,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Thermal activation'},eV,Mo1O3,,,,,
+80,0.025,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,,eV,Ag2Te1,,,,,
+81,3.073,"[{'name': 'Transition', 'scalars': [{'value': 'Excitonic'}]}, {'name': 'Temperature', 'scalars': [{'value': '80'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV,Tl1Br1,,,,,
+82,0.23,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Thermal activation'},eV,NiTe,,,,,
+83,3.1,"[{'name': 'Transition', 'scalars': [{'value': 'Direct'}]}, {'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV,Eu1S1,,,,,
+84,0.7,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Estimated'},eV,Ce1N1,,,,,
+85,2.91,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Absorption'},eV,Dy2S3,,,,,
+86,2.52,,EXPERIMENTAL,{'name': 'Thermal activation'},eV,Bi1I3,,,,,
+87,2,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Reflection'},eV,Eu1Te1,-0.0001,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Reflection'},eV/K
+88,3.6,"{'name': 'Temperature', 'scalars': [{'value': '70'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Absorption'},eV,Mg1Te1,,,,,
+89,3.7,"[{'name': 'Transition', 'scalars': [{'value': 'Excitonic'}]}, {'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV,Mo1O3,,,,,
+90,1.4,"{'name': 'Temperature', 'scalars': [{'value': '293'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Thermal activation'},eV,Ce2Te3,,,,,
+91,2.27,"{'name': 'Temperature', 'scalars': [{'value': '510'}], 'units': 'K'}",EXPERIMENTAL,,eV,Sm2O3,,,,,
+92,1.7,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Absorption'},eV,As2Se3,-8.00E-04,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+93,1.12,"[{'name': 'Transition', 'scalars': [{'value': 'Indirect'}]}, {'name': 'Temperature', 'scalars': [{'value': '291'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV,Si,,,,,
+94,2.62,"{'name': 'Temperature', 'scalars': [{'value': '80'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Absorption'},eV,As2S5,-6.70E-04,"{'name': 'Temperature', 'scalars': [{'value': '80'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+95,2.355,"[{'name': 'Electric field polarization', 'scalars': [{'value': 'Perpendicular to C axis'}]}, {'name': 'Transition', 'scalars': [{'value': 'Indirect'}]}, {'name': 'Temperature', 'scalars': [{'value': '403'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV,As2S3,,,,,
+96,3.246,"[{'name': 'Transition', 'scalars': [{'value': 'Indirect'}]}, {'name': 'Temperature', 'scalars': [{'value': '4.2'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV,Ag1Cl1,,,,,
+97,0.33,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Thermal activation'},eV,Te,,,,,
+98,0.01,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Thermal activation'},eV,Bi0.85Sb0.15,,,,,
+99,0.7,"[{'name': 'Transition', 'scalars': [{'value': 'Direct'}]}, {'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV,Cd1Sb1,,,,,
+100,,,,,,Al2S3,-1.15E-03,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+101,,,,,,Sb2Se3,-0.0007,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+102,,,,,,Ga1Sb1,-4.10E-04,"[{'name': 'Transition', 'scalars': [{'value': 'Direct'}]}, {'name': 'Temperature', 'scalars': [{'value': '4.2'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+103,,,,,,Ge1S1,-4.30E-04,"[{'name': 'Electric field polarization', 'scalars': [{'value': 'Parallel to C axis'}]}, {'name': 'Temperature', 'scalars': [{'value': '77'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+104,,,,,,As2S3,-0.00067,"[{'name': 'Transition', 'scalars': [{'value': 'Direct'}]}, {'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+105,,,,,,Ga1Se1,-0.00057,,EXPERIMENTAL,,eV/K
+106,,,,,,Hg1Te1,-0.00085,"[{'name': 'Transition', 'scalars': [{'value': 'G6 to G8'}]}, {'name': 'Transition', 'scalars': [{'value': 'Direct'}]}, {'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Thermal activation'},eV/K
+107,,,,,,Mo1O3,-0.00093,"[{'name': 'Electric field polarization', 'scalars': [{'value': 'Parallel to C axis'}]}, {'name': 'Transition', 'scalars': [{'value': 'Excitonic'}]}, {'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+108,,,,,,Bi2O3,-0.001,"[{'name': 'Transition', 'scalars': [{'value': 'Indirect'}]}, {'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Photoconduction'},eV/K
+109,,,,,,Te,-0.000346,,EXPERIMENTAL,{'name': 'Thermal activation'},eV/K
+110,,,,,,Zn1S1,-0.000486,"[{'name': 'Electric field polarization', 'scalars': [{'value': 'Perpendicular to C axis'}]}, {'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+111,,,,,,As2S3,-6.80E-04,,EXPERIMENTAL,{'name': 'Absorption'},eV/K
+112,,,,,,V2O5,-6.10E-04,"[{'name': 'Electric field polarization', 'scalars': [{'value': 'Parallel to C axis'}]}, {'name': 'Transition', 'scalars': [{'value': 'Direct'}]}, {'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+113,,,,,,Hg1I2,-0.0024,"{'name': 'Temperature', 'scalars': [{'value': '204'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Reflection'},eV/K
+114,,,,,,Pb1Se1,0.00041,"[{'name': 'Transition', 'scalars': [{'value': 'Direct'}]}, {'name': 'Temperature', 'scalars': [{'value': '77'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Magnetoabsorption'},eV/K
+115,,,,,,Mo1Te2,-0.00054,"{'name': 'Transition', 'scalars': [{'value': 'Indirect'}]}",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+116,,,,,,Mg2Si1,-6.00E-04,"{'name': 'Transition', 'scalars': [{'value': 'Indirect'}]}",EXPERIMENTAL,{'name': 'Thermal activation'},eV/K
+117,,,,,,Ge1S1,-0.00043,"[{'name': 'Electric field polarization', 'scalars': [{'value': 'Parallel to A axis'}]}, {'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+118,,,,,,Pb1Se1,4. lOe-04,"[{'name': 'Transition', 'scalars': [{'value': 'Direct'}]}, {'name': 'Temperature', 'scalars': [{'value': '4.2'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Magnetoabsorption'},eV/K
+119,,,,,,Eu1Se1,-0.0001,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Reflection'},eV/K
+120,,,,,,Hg1I2,-0.0024,"{'name': 'Temperature', 'scalars': [{'value': '90'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Reflection'},eV/K
+121,,,,,,Mg2Sn1,-0.00017,"[{'name': 'Transition', 'scalars': [{'value': 'Indirect'}]}, {'name': 'Temperature', 'scalars': [{'value': '296'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+122,,,,,,Pb1O1,-0.001,"[{'name': 'Electric field polarization', 'scalars': [{'value': 'Parallel to B axis'}]}, {'name': 'Transition', 'scalars': [{'value': 'Indirect'}]}, {'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+123,,,,,,Cd3As2,-0.00058,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Thermal activation'},eV/K
+124,,,,,,Bi1I3,-9.20E-04,"[{'name': 'Transition', 'scalars': [{'value': 'Indirect'}]}, {'name': 'Temperature', 'scalars': [{'value': '20.4'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+125,,,,,,Sb1Si1,-0.00155,,EXPERIMENTAL,{'name': 'Photoconduction'},eV/K
+126,,,,,,V2O5,-6. lOe-04,"[{'name': 'Electric field polarization', 'scalars': [{'value': 'Parallel to C axis'}]}, {'name': 'Transition', 'scalars': [{'value': 'Direct'}]}]",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+127,,,,,,Ga2Te3,-4.80E-04,"{'name': 'Transition', 'scalars': [{'value': 'Indirect'}]}",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+128,,,,,,Hg1I2,-0.0024,"{'name': 'Temperature', 'scalars': [{'value': '403'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Reflection'},eV/K
+129,,,,,,Sn1Te1,-3.00E-04,"[{'name': 'Transition', 'scalars': [{'value': 'Direct'}]}, {'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Thermal activation'},eV/K
+130,,,,,,Zn3As2,-0.00054,,EXPERIMENTAL,{'name': 'Thermal activation'},eV/K
+131,,,,,,Sb2S3,-0.00067,"{'name': 'Temperature', 'scalars': [{'value': '298'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+132,,,,,,Ga1N1,-0.00039,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+133,,,,,,Sn1O2,6.00c 04,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+134,,,,,,As2Se3,-0.0008,,EXPERIMENTAL,{'name': 'Absorption'},eV/K
+135,,,,,,Ga1P1,-2.34E-06,"{'name': 'Transition', 'scalars': [{'value': 'Direct'}]}",EXPERIMENTAL,{'name': 'Photoconduction'},eV/K
+136,,,,,,Al1Sb1,-0.00035,"[{'name': 'Transition', 'scalars': [{'value': 'Direct'}]}, {'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Reflection'},eV/K
+137,,,,,,Zn1S1,-4.86E-04,"[{'name': 'Electric field polarization', 'scalars': [{'value': 'Parallel to C axis'}]}, {'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+138,,,,,,Te,~6.30e-05,"[{'name': 'Electric field polarization', 'scalars': [{'value': 'Perpendicular to C axis'}]}, {'name': 'Transition', 'scalars': [{'value': 'Excitonic'}]}, {'name': 'Temperature', 'scalars': [{'value': '77'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+139,,,,,,Bi2Te3,-0.00009,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+140,,,,,,Sn1S2,-0.00086,"[{'name': 'Transition', 'scalars': [{'value': 'Indirect'}]}, {'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+141,,,,,,Pb1Se1,0.00045,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+142,,,,,,Sb1I3,-0.0009,"{'name': 'Transition', 'scalars': [{'value': 'Direct'}]}",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+143,,,,,,Ga2S3,-0.00095,,EXPERIMENTAL,,eV/K
+144,,,,,,Pb1Se1,0.00045,"{'name': 'Temperature', 'scalars': [{'value': '77'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+145,,,,,,Cd1Sc1,-3.60E-04,"[{'name': 'Electric field polarization', 'scalars': [{'value': 'Perpendicular to C axis'}]}, {'name': 'Transition', 'scalars': [{'value': 'Excitonic'}]}, {'name': 'Temperature', 'scalars': [{'value': '293'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Photoconduction'},eV/K
+146,,,,,,In1Se1,-0.0003,"[{'name': 'Transition', 'scalars': [{'value': 'Direct'}]}, {'name': 'Temperature', 'scalars': [{'value': '293'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+147,,,,,,Ga2Te3,-6.00E-04,"[{'name': 'Transition', 'scalars': [{'value': 'Indirect'}]}, {'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Reflection'},eV/K
+148,,,,,,Al1As1,-4.00E-04,,EXPERIMENTAL,,eV/K
+149,,,,,,Ga1P1,-0.00000234,"{'name': 'Transition', 'scalars': [{'value': 'Indirect'}]}",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+150,,,,,,Zn1P2,-0.00023,"[{'name': 'Electric field polarization', 'scalars': [{'value': 'Perpendicular to C axis'}]}, {'name': 'Transition', 'scalars': [{'value': 'Indirect'}]}, {'name': 'Temperature', 'scalars': [{'value': '293'}], 'units': 'K'}]",EXPERIMENTAL,,eV/K
+151,,,,,,Ga1P1,-2.34E-06,"[{'name': 'Transition', 'scalars': [{'value': 'Indirect'}]}, {'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+152,,,,,,Mg2Ge1,-0.00018,"[{'name': 'Transition', 'scalars': [{'value': 'Indirect'}]}, {'name': 'Temperature', 'scalars': [{'value': '4.2'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+153,,,,,,Cd1P2,-0.00042,"[{'name': 'Electric field polarization', 'scalars': [{'value': 'Perpendicular to C axis'}]}, {'name': 'Transition', 'scalars': [{'value': 'Indirect'}]}, {'name': 'Temperature', 'scalars': [{'value': '293'}], 'units': 'K'}]",EXPERIMENTAL,,eV/K
+154,,,,,,In2S3,-0.00104,,EXPERIMENTAL,{'name': 'Absorption'},eV/K
+155,,,,,,C,-6.30E-04,"[{'name': 'Transition', 'scalars': [{'value': 'Direct'}]}, {'name': 'Temperature', 'scalars': [{'value': '295'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Reflection'},eV/K
+156,,,,,,In2Te3,-0.00035,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Thermal activation'},eV/K
+157,,,,,,Sb2Se3,-0.0007,,EXPERIMENTAL,{'name': 'Thermal activation'},eV/K
+158,,,,,,Hg1I2,-4.00E-04,,EXPERIMENTAL,{'name': 'Absorption'},eV/K
+159,,,,,,As2S6,-6.70E-04,"[{'name': 'Transition', 'scalars': [{'value': 'Direct'}]}, {'name': 'Temperature', 'scalars': [{'value': '77'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+160,,,,,,P,0.00028,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Thermal activation'},eV/K
+161,,,,,,Eu1S1,-0.0001,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+162,,,,,,Hg1S1,0.00077,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+163,,,,,,Zr1S2,-4.20E-04,"[{'name': 'Transition', 'scalars': [{'value': 'Indirect'}]}, {'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+164,,,,,,Mo1O3,-0.00062,"[{'name': 'Electric field polarization', 'scalars': [{'value': 'Perpendicular to C axis'}]}, {'name': 'Transition', 'scalars': [{'value': 'Excitonic'}]}, {'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+165,,,,,,Al2O3,-1.50E-03,,EXPERIMENTAL,,eV/K
+166,,,,,,Sn,-0.0005,,EXPERIMENTAL,{'name': 'Magnetoreflection'},eV/K
+167,,,,,,Zn1As2,-7.50E-04,,EXPERIMENTAL,{'name': 'Thermal activation'},eV/K
+168,,,,,,Bi1I3,-3.50E-04,"[{'name': 'Transition', 'scalars': [{'value': 'Direct'}]}, {'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+169,,,,,,Cu2Te1,-3.00E-04,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+170,,,,,,Hf1Se2,-0.00068,"[{'name': 'Transition', 'scalars': [{'value': 'Indirect'}]}, {'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+171,,,,,,Se,-0.00238,,EXPERIMENTAL,{'name': 'Photoconduction'},eV/K
+172,,,,,,Ga1Sb1,-0.00041,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+173,,,,,,W1O3,0.00065,"[{'name': 'Electric field polarization', 'scalars': [{'value': 'Parallel to C axis'}]}, {'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}]",EXPERIMENTAL,,eV/K
+174,,,,,,W1Se2,-4.60E-04,"{'name': 'Temperature', 'scalars': [{'value': '295'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+175,,,,,,Cd1Se1,-0.00036,"[{'name': 'Electric field polarization', 'scalars': [{'value': 'Perpendicular to C axis'}]}, {'name': 'Transition', 'scalars': [{'value': 'Excitonic'}]}, {'name': 'Temperature', 'scalars': [{'value': '77'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Photoconduction'},eV/K
+176,,,,,,Bi2Te3,-0.00009,,EXPERIMENTAL,{'name': 'Thermal activation'},eV/K
+177,,,,,,Ga1Te1,-4.80E-04,,EXPERIMENTAL,{'name': 'Absorption'},eV/K
+178,,,,,,Bi2O3,-0.0011,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+179,,,,,,Cd1S1,-0.00049,"{'name': 'Temperature', 'scalars': [{'value': '77'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+180,,,,,,Mg2Sn1,-1.70E-04,"[{'name': 'Transition', 'scalars': [{'value': 'Direct'}]}, {'name': 'Temperature', 'scalars': [{'value': '296'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Reflection'},eV/K
+181,,,,,,C,-0.000054,"[{'name': 'Transition', 'scalars': [{'value': 'Indirect'}]}, {'name': 'Temperature', 'scalars': [{'value': '295'}], 'units': 'K'}]",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+182,,,,,,Sn1Te1,-3.60E-04,"{'name': 'Transition', 'scalars': [{'value': 'Direct'}]}",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+183,,,,,,Hg1I2,-0.0004,"{'name': 'Temperature', 'scalars': [{'value': '300'}], 'units': 'K'}",EXPERIMENTAL,{'name': 'Absorption'},eV/K
+184,,,,,,Cd1P2,-0.00086,"[{'name': 'Transition', 'scalars': [{'value': 'Direct'}]}, {'name': 'Temperature', 'scalars': [{'value': '293'}], 'units': 'K'}]",EXPERIMENTAL,,eV/K
+185,,,,,,Zn1P2,-5.50E-04,"{'name': 'Temperature', 'scalars': [{'value': '293'}], 'units': 'K'}",EXPERIMENTAL,,eV/K

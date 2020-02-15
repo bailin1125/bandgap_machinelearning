@@ -1,0 +1,294 @@
+material_id,spacegroup,band_structure,full_formula,e_above_hull,structure,dos,final_energy,total_magnetization
+mp-1,"{'source': 'spglib', 'symbol': 'Im-3m', 'number': 229, 'point_group': 'm-3m', 'crystal_system': 'cubic', 'hall': '-I 4 2 3'}",{'GGA': {'task_id': 'mp-990461'}},Cs1,0.03657077379310347,"Full Formula (Cs1)
+Reduced Formula: Cs
+abc   :   5.282783   5.281969   5.282801
+angles: 109.672735 108.655618 109.672039
+Sites (1)
+  #  SP          a      b         c    magmom
+---  ----  -------  -----  --------  --------
+  0  Cs    2.5e-05  6e-06  0.999997        -0","Complete DOS for Full Formula (Cs1)
+Reduced Formula: Cs
+abc   :   5.282783   5.281969   5.282801
+angles: 109.672729 108.655622 109.672035
+Sites (1)
+  #  SP          a      b         c
+---  ----  -------  -----  --------
+  0  Cs    2.5e-05  6e-06  0.999997",-0.85881928,0.0002568
+mp-2,"{'source': 'spglib', 'symbol': 'Fm-3m', 'number': 225, 'point_group': 'm-3m', 'crystal_system': 'cubic', 'hall': '-F 4 2 3'}",{'GGA': {'task_id': 'mp-1056470'}},Pd1,0.0,"Full Formula (Pd1)
+Reduced Formula: Pd
+abc   :   2.798069   2.798069   2.798069
+angles:  60.000000  60.000000  60.000000
+Sites (1)
+  #  SP      a    b    c    magmom
+---  ----  ---  ---  ---  --------
+  0  Pd      0    0    0     0.338","Complete DOS for Full Formula (Pd1)
+Reduced Formula: Pd
+abc   :   2.795431   2.795431   2.795431
+angles:  60.000000  60.000000  60.000000
+Sites (1)
+  #  SP      a    b    c
+---  ----  ---  ---  ---
+  0  Pd      0    0    0",-5.18261814,0.0159454
+mp-7,"{'source': 'spglib', 'symbol': 'R-3', 'number': 148, 'point_group': '-3', 'crystal_system': 'trigonal', 'hall': '-R 3'}",{'GGA': {'task_id': 'mp-655417'}},S6,0.06543043260416681,"Full Formula (S6)
+Reduced Formula: S
+abc   :   6.639797   6.639797   6.639797
+angles: 113.094066 113.094066 113.094066
+Sites (6)
+  #  SP           a         b         c    magmom
+---  ----  --------  --------  --------  --------
+  0  S     0.228228  0.124312  0.897566         0
+  1  S     0.897566  0.228228  0.124312         0
+  2  S     0.124312  0.897566  0.228228         0
+  3  S     0.771772  0.875688  0.102434         0
+  4  S     0.102434  0.771772  0.875688         0
+  5  S     0.875688  0.102434  0.771772         0","Complete DOS for Full Formula (S6)
+Reduced Formula: S
+abc   :   6.639797   6.639797   6.639797
+angles: 113.094064 113.094064 113.094069
+Sites (6)
+  #  SP           a         b         c
+---  ----  --------  --------  --------
+  0  S     0.228228  0.124312  0.897566
+  1  S     0.897566  0.228228  0.124312
+  2  S     0.124312  0.897566  0.228228
+  3  S     0.771772  0.875688  0.102434
+  4  S     0.102434  0.771772  0.875688
+  5  S     0.875688  0.102434  0.771772",-24.37468862,1.2666666666666667e-06
+mp-9,"{'source': 'spglib', 'symbol': 'Fm-3m', 'number': 225, 'point_group': 'm-3m', 'crystal_system': 'cubic', 'hall': '-F 4 2 3'}",{'GGA': {'task_id': 'mp-993784'}},Y1,0.027544480000000426,"Full Formula (Y1)
+Reduced Formula: Y
+abc   :   3.579829   3.579829   3.579829
+angles:  60.000000  60.000000  60.000000
+Sites (1)
+  #  SP      a    b    c    magmom
+---  ----  ---  ---  ---  --------
+  0  Y       0    0    0        -0","Complete DOS for Full Formula (Y1)
+Reduced Formula: Y
+abc   :   3.579828   3.579828   3.579828
+angles:  60.000000  60.000000  60.000000
+Sites (1)
+  #  SP      a    b    c
+---  ----  ---  ---  ---
+  0  Y       0    0    0",-6.43983967,5.5e-05
+mp-10,"{'source': 'spglib', 'symbol': 'Pm-3m', 'number': 221, 'point_group': 'm-3m', 'crystal_system': 'cubic', 'hall': '-P 4 2 3'}",{'GGA': {'task_id': 'mp-1001367'}},As2,0.1074050600000005,"Full Formula (As2)
+Reduced Formula: As
+abc   :   3.871425   3.871425   3.871425
+angles:  60.000000  60.000000  60.000000
+Sites (2)
+  #  SP       a     b     c
+---  ----  ----  ----  ----
+  0  As    0.25  0.25  0.25
+  1  As    0.75  0.75  0.75","Complete DOS for Full Formula (As1)
+Reduced Formula: As
+abc   :   2.737511   2.737511   2.737511
+angles:  90.000000  90.000000  90.000000
+Sites (1)
+  #  SP      a    b    c
+---  ----  ---  ---  ---
+  0  As    0.5  0.5  0.5",-9.10133099,1.35e-06
+mp-11,"{'source': 'spglib', 'symbol': 'R-3m', 'number': 166, 'point_group': '-3m', 'crystal_system': 'trigonal', 'hall': '-R 3 2""'}",{'GGA': {'task_id': 'mp-1059192'}},As2,0.0,"Full Formula (As2)
+Reduced Formula: As
+abc   :   4.172309   4.172309   4.172309
+angles:  54.609744  54.609744  54.609744
+Sites (2)
+  #  SP          a        b        c    magmom
+---  ----  -------  -------  -------  --------
+  0  As    0.22732  0.22732  0.22732         0
+  1  As    0.77268  0.77268  0.77268         0","Complete DOS for Full Formula (As2)
+Reduced Formula: As
+abc   :   4.172309   4.172309   4.172309
+angles:  54.609744  54.609744  54.609745
+Sites (2)
+  #  SP          a        b        c
+---  ----  -------  -------  -------
+  0  As    0.22732  0.22732  0.22732
+  1  As    0.77268  0.77268  0.77268",-9.31614111,1.5e-06
+mp-13,"{'source': 'spglib', 'symbol': 'Im-3m', 'number': 229, 'point_group': 'm-3m', 'crystal_system': 'cubic', 'hall': '-I 4 2 3'}",{'GGA': {'task_id': 'mp-1056141'}},Fe1,0.0,"Full Formula (Fe1)
+Reduced Formula: Fe
+abc   :   2.466541   2.466541   2.466541
+angles: 109.471221 109.471221 109.471221
+Sites (1)
+  #  SP      a    b    c    magmom
+---  ----  ---  ---  ---  --------
+  0  Fe      0    0    0    -2.279","Complete DOS for Full Formula (Fe1)
+Reduced Formula: Fe
+abc   :   2.457136   2.457136   2.457136
+angles: 109.471221 109.471221 109.471221
+Sites (1)
+  #  SP      a    b    c
+---  ----  ---  ---  ---
+  0  Fe      0    0    0",-8.45983087,2.2223763
+mp-17,"{'source': 'spglib', 'symbol': 'Pm-3n', 'number': 223, 'point_group': 'm-3m', 'crystal_system': 'cubic', 'hall': '-P 4n 2 3'}",{'GGA': {'task_id': 'mp-931040'}},Cr8,0.06787116125000026,"Full Formula (Cr8)
+Reduced Formula: Cr
+abc   :   4.546539   4.546539   4.546539
+angles:  90.000000  90.000000  90.000000
+Sites (8)
+  #  SP       a     b     c    magmom
+---  ----  ----  ----  ----  --------
+  0  Cr    0     0     0            0
+  1  Cr    0.5   0.5   0.5          0
+  2  Cr    0.25  0     0.5          0
+  3  Cr    0.75  0     0.5          0
+  4  Cr    0     0.5   0.25         0
+  5  Cr    0     0.5   0.75         0
+  6  Cr    0.5   0.75  0            0
+  7  Cr    0.5   0.25  0            0","Complete DOS for Full Formula (Cr8)
+Reduced Formula: Cr
+abc   :   4.546539   4.546539   4.546539
+angles:  90.000000  90.000000  90.000000
+Sites (8)
+  #  SP       a     b     c
+---  ----  ----  ----  ----
+  0  Cr    0     0     0
+  1  Cr    0.5   0.5   0.5
+  2  Cr    0.25  0     0.5
+  3  Cr    0.75  0     0.5
+  4  Cr    0     0.5   0.25
+  5  Cr    0     0.5   0.75
+  6  Cr    0.5   0.75  0
+  7  Cr    0.5   0.25  0",-76.55066159,3.525e-06
+mp-19,"{'source': 'spglib', 'symbol': 'P3_121', 'number': 152, 'point_group': '32', 'crystal_system': 'trigonal', 'hall': 'P 31 2""'}",{'GGA': {'task_id': 'mp-1062271'}},Te3,0.0,"Full Formula (Te3)
+Reduced Formula: Te
+abc   :   4.512374   4.512374   5.959899
+angles:  90.000000  90.000000 120.000000
+Sites (3)
+  #  SP          a        b         c    magmom
+---  ----  -------  -------  --------  --------
+  0  Te    0.26895  0        0.333333         0
+  1  Te    0        0.26895  0.666667         0
+  2  Te    0.73105  0.73105  0                0","Complete DOS for Full Formula (Te3)
+Reduced Formula: Te
+abc   :   4.512374   4.512374   5.959899
+angles:  90.000000  90.000000 120.000006
+Sites (3)
+  #  SP          a        b         c
+---  ----  -------  -------  --------
+  0  Te    0.26895  0        0.333333
+  1  Te    0        0.26895  0.666667
+  2  Te    0.73105  0.73105  0",-9.42724539,0.0
+mp-20,"{'source': 'spglib', 'symbol': 'Im-3m', 'number': 229, 'point_group': 'm-3m', 'crystal_system': 'cubic', 'hall': '-I 4 2 3'}",{'GGA': {'task_id': 'mp-1056483'}},Be1,0.0955094449999998,"Full Formula (Be1)
+Reduced Formula: Be
+abc   :   2.165259   2.165259   2.165259
+angles: 109.471221 109.471221 109.471221
+Sites (1)
+  #  SP      a    b    c    magmom
+---  ----  ---  ---  ---  --------
+  0  Be      0    0    0        -0","Complete DOS for Full Formula (Be1)
+Reduced Formula: Be
+abc   :   2.165259   2.165259   2.165259
+angles: 109.471221 109.471221 109.471221
+Sites (1)
+  #  SP      a    b    c
+---  ----  ---  ---  ---
+  0  Be      0    0    0",-3.64710099,1e-07
+mp-21,"{'source': 'spglib', 'symbol': 'Im-3m', 'number': 229, 'point_group': 'm-3m', 'crystal_system': 'cubic', 'hall': '-I 4 2 3'}",{'GGA': {'task_id': 'mp-1067611'}},Ca1,0.02832518999999989,"Full Formula (Ca1)
+Reduced Formula: Ca
+abc   :   4.297409   3.801137   3.775367
+angles: 108.767083 124.690118  55.578310
+Sites (1)
+  #  SP      a    b    c    magmom
+---  ----  ---  ---  ---  --------
+  0  Ca      0  0.5  0.5        -0","Complete DOS for Full Formula (Ca4)
+Reduced Formula: Ca
+abc   :   4.346862   4.346862   8.819489
+angles:  90.000000  90.000000  90.009898
+Sites (4)
+  #  SP          a        b         c
+---  ----  -------  -------  --------
+  0  Ca    0.24924  0.24924  0.125098
+  1  Ca    0.75076  0.75076  0.874902
+  2  Ca    0.25076  0.25076  0.625098
+  3  Ca    0.74924  0.74924  0.374902",-1.99349387,2.22e-05
+mp-23,"{'source': 'spglib', 'symbol': 'Fm-3m', 'number': 225, 'point_group': 'm-3m', 'crystal_system': 'cubic', 'hall': '-F 4 2 3'}",{'GGA': {'task_id': 'mp-1056609'}},Ni1,0.0,"Full Formula (Ni1)
+Reduced Formula: Ni
+abc   :   2.478973   2.478973   2.478973
+angles:  60.000000  60.000000  60.000000
+Sites (1)
+  #  SP      a    b    c    magmom
+---  ----  ---  ---  ---  --------
+  0  Ni      0    0    0     0.626","Complete DOS for Full Formula (Ni1)
+Reduced Formula: Ni
+abc   :   2.478974   2.478974   2.478974
+angles:  60.000000  60.000000  60.000000
+Sites (1)
+  #  SP      a    b    c
+---  ----  ---  ---  ---
+  0  Ni      0    0    0",-5.78107405,0.6388519
+mp-24,"{'source': 'spglib', 'symbol': 'Ia-3', 'number': 206, 'point_group': 'm-3', 'crystal_system': 'cubic', 'hall': '-I 2b 2c 3'}",{'GGA': {'task_id': 'mp-662138'}},C8,0.8323398874999999,"Full Formula (C8)
+Reduced Formula: C
+abc   :   3.878649   3.878649   3.878649
+angles: 109.471221 109.471221 109.471221
+Sites (8)
+  #  SP           a         b         c    magmom
+---  ----  --------  --------  --------  --------
+  0  C     0.187812  0.187812  0.187812         0
+  1  C     1         0.312188  0.5              0
+  2  C     0.5       0         0.312188         0
+  3  C     0.312188  0.5       1                0
+  4  C     0.812188  0.812188  0.812188         0
+  5  C     0         0.687812  0.5              0
+  6  C     0.5       1         0.687812         0
+  7  C     0.687812  0.5       0                0","Complete DOS for Full Formula (C8)
+Reduced Formula: C
+abc   :   3.878649   3.878649   3.878649
+angles: 109.471221 109.471221 109.471221
+Sites (8)
+  #  SP           a         b         c
+---  ----  --------  --------  --------
+  0  C     0.187812  0.187812  0.187812
+  1  C     0         0.312188  0.5
+  2  C     0.5       0         0.312188
+  3  C     0.312188  0.5       0
+  4  C     0.812188  0.812188  0.812188
+  5  C     0         0.687812  0.5
+  6  C     0.5       0         0.687812
+  7  C     0.687812  0.5       0",-67.14506955,0.0
+mp-25,"{'source': 'spglib', 'symbol': 'Pa-3', 'number': 205, 'point_group': 'm-3', 'crystal_system': 'cubic', 'hall': '-P 2ac 2ab 3'}",{'GGA': {'task_id': 'mp-660823'}},N8,8.881784197001252e-16,"Full Formula (N8)
+Reduced Formula: N2
+abc   :   5.855921   5.855921   5.855921
+angles:  90.000000  90.000000  90.000000
+Sites (8)
+  #  SP           a         b         c    magmom
+---  ----  --------  --------  --------  --------
+  0  N     0.054869  0.054869  0.054869         0
+  1  N     0.445131  0.945131  0.554869         0
+  2  N     0.554869  0.445131  0.945131         0
+  3  N     0.945131  0.554869  0.445131         0
+  4  N     0.945131  0.945131  0.945131         0
+  5  N     0.554869  0.054869  0.445131         0
+  6  N     0.445131  0.554869  0.054869         0
+  7  N     0.054869  0.445131  0.554869         0","Complete DOS for Full Formula (N8)
+Reduced Formula: N2
+abc   :   5.855921   5.855921   5.855921
+angles:  90.000000  90.000000  90.000000
+Sites (8)
+  #  SP           a         b         c
+---  ----  --------  --------  --------
+  0  N     0.054869  0.054869  0.054869
+  1  N     0.445131  0.945131  0.554869
+  2  N     0.554869  0.445131  0.945131
+  3  N     0.945131  0.554869  0.445131
+  4  N     0.945131  0.945131  0.945131
+  5  N     0.554869  0.054869  0.445131
+  6  N     0.445131  0.554869  0.054869
+  7  N     0.054869  0.445131  0.554869",-66.6138121,0.0
+mp-26,"{'source': 'spglib', 'symbol': 'P6_3/mmc', 'number': 194, 'point_group': '6/mmm', 'crystal_system': 'hexagonal', 'hall': '-P 6c 2c'}",{'GGA': {'task_id': 'mp-926096'}},La4,0.021294127500000037,"Full Formula (La4)
+Reduced Formula: La
+abc   :   3.771191   3.771191  12.064932
+angles:  90.000000  90.000000 120.000000
+Sites (4)
+  #  SP           a         b     c    magmom
+---  ----  --------  --------  ----  --------
+  0  La    0         0         0            0
+  1  La    0         0         0.5          0
+  2  La    0.333333  0.666667  0.25         0
+  3  La    0.666667  0.333333  0.75         0","Complete DOS for Full Formula (La4)
+Reduced Formula: La
+abc   :   3.771191   3.771191  12.064932
+angles:  90.000000  90.000000 119.999984
+Sites (4)
+  #  SP           a         b     c
+---  ----  --------  --------  ----
+  0  La    0         0         0
+  1  La    0         0         0.5
+  2  La    0.333333  0.666667  0.25
+  3  La    0.666667  0.333333  0.75",-19.70636613,0.00168735

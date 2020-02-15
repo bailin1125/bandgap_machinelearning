@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "scikit_learn_regression", "scikit_learn\scikit_learn_regression.pyproj", "{E1766ECA-7E65-4291-86E7-F53DF6C5A56E}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ridge", "ridge\ridge.pyproj", "{BF482BA9-DE63-45F7-8F12-E5528462092D}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "huitu_lianxi", "test\huitu_lianxi.pyproj", "{27B43646-A01F-43BE-BBCE-017CE9F312E9}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "lasso_elastic_net", "lasso_elastic_net\lasso_elastic_net.pyproj", "{C16437DA-FEA8-4E6A-A122-3C9EF5E02C22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1766ECA-7E65-4291-86E7-F53DF6C5A56E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1766ECA-7E65-4291-86E7-F53DF6C5A56E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF482BA9-DE63-45F7-8F12-E5528462092D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF482BA9-DE63-45F7-8F12-E5528462092D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27B43646-A01F-43BE-BBCE-017CE9F312E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27B43646-A01F-43BE-BBCE-017CE9F312E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C16437DA-FEA8-4E6A-A122-3C9EF5E02C22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C16437DA-FEA8-4E6A-A122-3C9EF5E02C22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B72F2FA-42BD-47E3-A423-898191090D7D}
+	EndGlobalSection
+EndGlobal

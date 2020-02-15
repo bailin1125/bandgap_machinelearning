@@ -1,0 +1,54 @@
+material_id,pretty_formula,elasticity.K_VRH,elasticity.G_VRH,e_above_hull,bandstructure,dos
+mp-19717,TePb,40.0,24.0,0,<pymatgen.electronic_structure.bandstructure.BandStructureSymmLine object at 0x00000284C7959CC0>,"Complete DOS for Full Formula (Te1 Pb1)
+Reduced Formula: TePb
+abc   :   4.643036   4.643036   4.643036
+angles:  60.000000  60.000000  60.000000
+Sites (2)
+  #  SP      a    b    c
+---  ----  ---  ---  ---
+  0  Te    0    0    0
+  1  Pb    0.5  0.5  0.5"
+mp-20740,Tl4Te3Pb,25.0,13.0,0,<pymatgen.electronic_structure.bandstructure.BandStructureSymmLine object at 0x00000284C7D7B4A8>,"Complete DOS for Full Formula (Tl8 Te6 Pb2)
+Reduced Formula: Tl4Te3Pb
+abc   :   9.272079   9.272079   9.272079
+angles: 121.957334 121.957334  86.641965
+Sites (16)
+  #  SP           a         b         c
+---  ----  --------  --------  --------
+  0  Tl    0.510771  0.010771  0.206386
+  1  Tl    0.195614  0.695614  0.206386
+  2  Tl    0.804386  0.304386  0.793614
+  3  Tl    0.304386  0.510771  0.5
+  4  Tl    0.010771  0.804386  0.5
+  5  Tl    0.695614  0.489229  0.5
+  6  Tl    0.989229  0.195614  0.5
+  7  Tl    0.489229  0.989229  0.793614
+  8  Te    0.664315  0.835685  0.5
+  9  Te    0.164315  0.664315  0.828631
+ 10  Te    0.25      0.25      0
+ 11  Te    0.75      0.75      0
+ 12  Te    0.835685  0.335685  0.171369
+ 13  Te    0.335685  0.164315  0.5
+ 14  Pb    0.5       0.5       0
+ 15  Pb    0         0         0"
+mp-605028,Te2Pd3Pb2,34.0,16.0,0,<pymatgen.electronic_structure.bandstructure.BandStructureSymmLine object at 0x00000284C7DC3C88>,"Complete DOS for Full Formula (Te4 Pd6 Pb4)
+Reduced Formula: Te2Pd3Pb2
+abc   :   6.055175   6.522325   8.784933
+angles:  90.000000  90.000000  90.000000
+Sites (14)
+  #  SP       a         b         c
+---  ----  ----  --------  --------
+  0  Te    0.25  0.673281  0.541036
+  1  Te    0.75  0.326719  0.041036
+  2  Te    0.25  0.673281  0.958964
+  3  Te    0.75  0.326719  0.458964
+  4  Pd    0     0         0.5
+  5  Pd    0.75  0.215613  0.75
+  6  Pd    0     0         0
+  7  Pd    0.5   0         0.5
+  8  Pd    0.5   0         0
+  9  Pd    0.25  0.784387  0.25
+ 10  Pb    0.25  0.256117  0.25
+ 11  Pb    0.75  0.743883  0.75
+ 12  Pb    0.25  0.195434  0.75
+ 13  Pb    0.75  0.804566  0.25"
