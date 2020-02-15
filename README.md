@@ -1,0 +1,2 @@
+# bandgap_machinelearning
+机器学习方法预测材料的带隙
